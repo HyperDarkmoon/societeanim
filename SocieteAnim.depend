@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1674637164 source:c:\users\asus\desktop\societeanim\function.c
+	"headers.h"
+
+1674636099 c:\users\asus\desktop\societeanim\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1674637224 source:c:\users\asus\desktop\societeanim\main.c
+	"headers.h"
+
